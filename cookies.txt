@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mailchi.mp	TRUE	/	FALSE	1999999999	_mcid	1.ba947cc754850cb18513e59fb77ba6a7.6f6b45f74a0860e20e63c3504ce6c982e5f17632841ce0d7a778e695ac7abd3e
+
